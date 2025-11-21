@@ -43,7 +43,7 @@ If someone needs the full dataset or model to reproduce the results, they would 
 Explore the model's predictions and interactive visualizations here:
 
 **Access the Live Dashboard (Streamlit):**
-[dutchenergypredictiondashboard-112358.streamlit.app](https://dutchenergypredictiondashboard-112358.streamlit.app/)
+[dutchenergypredictiondashboard-112358.streamlit.app](https://dutchenergypredictiondashboard-yeabsira.streamlit.app/)
 
 ## 👥 Contributors
 
