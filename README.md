@@ -1,17 +1,17 @@
 # ⚡ Dutch National Energy Peak Prediction (2025)
 
-## 🎯 Project Goal
+##  Project Goal
 
 To model and predict national energy demand peaks in the Netherlands for the period of July 2025 to December 2025.
 
 Our analysis identified the primary drivers of peak demand variance as collective behavioral patterns (the Dutch "Dinner Hour") and atmospheric temperature fluctuations.
 
-## ✨ Key Findings
+##  Key Findings
 
 * **The Dinner Hour Peak:** A consistent, sharp rise in demand starts around 16:00 hrs.
 * **Temperature Correlation:** Energy consumption shows a clear, increasing correlation with warmer seasons.
 
-## 🛠️ Project Structure & Technology
+##  Project Structure & Technology
 
 This repository is primarily focused on the deployment and visualization of the model's results.
 
